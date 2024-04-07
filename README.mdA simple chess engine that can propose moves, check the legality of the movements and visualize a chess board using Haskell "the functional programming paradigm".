@@ -1,0 +1,1 @@
+A chess engine that can propose moves, check the legality of the movements and visualize a chess board using Haskell "the functional programming paradigm".
